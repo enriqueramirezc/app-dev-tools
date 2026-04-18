@@ -95,3 +95,10 @@ If an app has more than 1 screen file-based routing is best.
 
 `MyApp/` contains a project example that uses file-based routing. `NotherApp/` contains a project using a blank template.
 
+## Dependencies
+
+- Node
+- React Native CLI
+- JDK
+- Android studio (if developing for Android)
+
